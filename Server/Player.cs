@@ -20,7 +20,6 @@ namespace Server
         public float yAnim;
         public float zAnim;
 
-
         public int damged;
         public int hp;
 
